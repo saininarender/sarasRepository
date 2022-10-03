@@ -8,5 +8,6 @@ public class LibrarySpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LibrarySpringBootApplication.class, args);
+		System.out.println("Change to see in GitHub");
 	}
 }
